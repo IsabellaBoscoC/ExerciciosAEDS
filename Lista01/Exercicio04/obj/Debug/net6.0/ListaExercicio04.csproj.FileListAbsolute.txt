@@ -1,0 +1,14 @@
+C:\Users\isabe\Desktop\TUDO\PUC\3 PERIODO\AEDS\RECURSSIVIDADE\Exercicio01\ListaExercicio04\bin\Debug\net6.0\ListaExercicio04.exe
+C:\Users\isabe\Desktop\TUDO\PUC\3 PERIODO\AEDS\RECURSSIVIDADE\Exercicio01\ListaExercicio04\bin\Debug\net6.0\ListaExercicio04.deps.json
+C:\Users\isabe\Desktop\TUDO\PUC\3 PERIODO\AEDS\RECURSSIVIDADE\Exercicio01\ListaExercicio04\bin\Debug\net6.0\ListaExercicio04.runtimeconfig.json
+C:\Users\isabe\Desktop\TUDO\PUC\3 PERIODO\AEDS\RECURSSIVIDADE\Exercicio01\ListaExercicio04\bin\Debug\net6.0\ListaExercicio04.dll
+C:\Users\isabe\Desktop\TUDO\PUC\3 PERIODO\AEDS\RECURSSIVIDADE\Exercicio01\ListaExercicio04\bin\Debug\net6.0\ListaExercicio04.pdb
+C:\Users\isabe\Desktop\TUDO\PUC\3 PERIODO\AEDS\RECURSSIVIDADE\Exercicio01\ListaExercicio04\obj\Debug\net6.0\ListaExercicio04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabe\Desktop\TUDO\PUC\3 PERIODO\AEDS\RECURSSIVIDADE\Exercicio01\ListaExercicio04\obj\Debug\net6.0\ListaExercicio04.AssemblyInfoInputs.cache
+C:\Users\isabe\Desktop\TUDO\PUC\3 PERIODO\AEDS\RECURSSIVIDADE\Exercicio01\ListaExercicio04\obj\Debug\net6.0\ListaExercicio04.AssemblyInfo.cs
+C:\Users\isabe\Desktop\TUDO\PUC\3 PERIODO\AEDS\RECURSSIVIDADE\Exercicio01\ListaExercicio04\obj\Debug\net6.0\ListaExercicio04.csproj.CoreCompileInputs.cache
+C:\Users\isabe\Desktop\TUDO\PUC\3 PERIODO\AEDS\RECURSSIVIDADE\Exercicio01\ListaExercicio04\obj\Debug\net6.0\ListaExercicio04.dll
+C:\Users\isabe\Desktop\TUDO\PUC\3 PERIODO\AEDS\RECURSSIVIDADE\Exercicio01\ListaExercicio04\obj\Debug\net6.0\refint\ListaExercicio04.dll
+C:\Users\isabe\Desktop\TUDO\PUC\3 PERIODO\AEDS\RECURSSIVIDADE\Exercicio01\ListaExercicio04\obj\Debug\net6.0\ListaExercicio04.pdb
+C:\Users\isabe\Desktop\TUDO\PUC\3 PERIODO\AEDS\RECURSSIVIDADE\Exercicio01\ListaExercicio04\obj\Debug\net6.0\ListaExercicio04.genruntimeconfig.cache
+C:\Users\isabe\Desktop\TUDO\PUC\3 PERIODO\AEDS\RECURSSIVIDADE\Exercicio01\ListaExercicio04\obj\Debug\net6.0\ref\ListaExercicio04.dll
